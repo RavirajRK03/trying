@@ -12,4 +12,7 @@ public void hindiLanguage() {
 	System.out.println("I Don't Know Hindi");
 
 }
+private void telugu() {
+System.out.println("I know Telugu");
+}
 }
